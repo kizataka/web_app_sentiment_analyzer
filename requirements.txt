@@ -1069,3 +1069,4 @@ nvidia-cuda-nvrtc-cu11==11.7.99 --hash=sha256:9f1562822ea264b7e34ed5930567e89242
 nvidia-cuda-cupti-cu11==11.7.101 --hash=sha256:e0cfd9854e1f2edaa36ca20d21cd0bdd5dcfca4e3b9e130a082e05b33b6c5895
 nvidia-nccl-cu11==2.14.3 --hash=sha256:5e5534257d1284b8e825bc3a182c6f06acd6eb405e9f89d49340e98cd8f136eb
 nvidia-curand-cu11==10.2.10.91 --hash=sha256:eecb269c970fa599a2660c9232fa46aaccbf90d9170b96c462e13bcb4d129e2c
+nvidia-cusparse-cu11==11.7.4.91 --hash=sha256:a3389de714db63321aa11fbec3919271f415ef19fda58aed7f2ede488c32733d
