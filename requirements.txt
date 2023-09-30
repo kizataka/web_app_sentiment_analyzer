@@ -1063,3 +1063,4 @@ zipp==3.17.0 ; python_version >= "3.9" and python_full_version != "3.9.7" and py
     --hash=sha256:84e64a1c28cf7e91ed2078bb8cc8c259cb19b76942096c8d7b84947690cabaf0
 gunicorn==21.2.0 --hash=sha256:3213aa5e8c24949e792bcacfc176fef362e7aac80b76c56f6b5122bf350722f0
 nvidia-nvtx-cu11==11.7.91 --hash=sha256:b22c64eee426a62fc00952b507d6d29cf62b4c9df7a480fcc417e540e05fd5ac
+nvidia-cuda-runtime-cu11==11.7.99 --hash=sha256:cc768314ae58d2641f07eac350f40f99dcb35719c4faff4bc458a7cd2b119e31
