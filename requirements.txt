@@ -1061,3 +1061,5 @@ watchdog==3.0.0 ; python_version >= "3.9" and python_full_version != "3.9.7" and
 zipp==3.17.0 ; python_version >= "3.9" and python_full_version != "3.9.7" and python_version < "4.0" \
     --hash=sha256:0e923e726174922dce09c53c59ad483ff7bbb8e572e00c7f7c46b88556409f31 \
     --hash=sha256:84e64a1c28cf7e91ed2078bb8cc8c259cb19b76942096c8d7b84947690cabaf0
+
+gunicorn
