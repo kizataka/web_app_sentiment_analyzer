@@ -1066,3 +1066,4 @@ nvidia-nvtx-cu11==11.7.91 --hash=sha256:b22c64eee426a62fc00952b507d6d29cf62b4c9d
 nvidia-cuda-runtime-cu11==11.7.99 --hash=sha256:cc768314ae58d2641f07eac350f40f99dcb35719c4faff4bc458a7cd2b119e31
 nvidia-cufft-cu11==10.9.0.58 --hash=sha256:222f9da70c80384632fd6035e4c3f16762d64ea7a843829cb278f98b3cb7dd81
 nvidia-cuda-nvrtc-cu11==11.7.99 --hash=sha256:9f1562822ea264b7e34ed5930567e89242d266448e936b85bc97a3370feabb03
+nvidia-cuda-cupti-cu11==11.7.101 --hash=sha256:e0cfd9854e1f2edaa36ca20d21cd0bdd5dcfca4e3b9e130a082e05b33b6c5895
