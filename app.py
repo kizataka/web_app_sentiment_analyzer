@@ -63,7 +63,7 @@ if uploaded_file is not None:
 
         # 感情分析の実行
         for index, row in filtered_data.iterrows():
-            url = 'http://0.0.0.0:8000/analyze_sentiment/'
+            url = 'http://127.0.0.1:8000/analyze_sentiment/'
             response = requests.post(url, json={'text': row[column_to_process]})
 
             if response.status_code == 200:
