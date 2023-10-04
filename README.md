@@ -14,6 +14,7 @@ ECサイトでの婦人服の売上データとなっており、商品分類名
 ### デモ動画
 本来であれば人物名で検索するところを商品分類名の一つであるshirtを入力し、shirtに関するレビューを集めてポジティブなレビューのみを表示するようにしています。  
 デモ動画ではKaggleのデータを縮小したCSVファイル[test.csv](https://drive.google.com/file/d/1cAJ2OdLswGHbR9fdrt8YFQYxP2c1SnKL/view?usp=drive_link)を使用しています。  
+
 ![web_app_movie](https://github.com/kizataka/web_app_sentiment_analyzer/assets/112063667/c514762d-908b-4e8a-b31a-8f00877578e2)  
 
 # 機能一覧
