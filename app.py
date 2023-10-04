@@ -29,9 +29,7 @@ if uploaded_file is not None:
     st.write('')
     st.write('データの先頭5件を表示しています')
     st.write(data.head())
-
     st.write('')
-    # column_to_process = st.selectbox('ツイートが含まれるカラムを選択してください:', data.columns)
 
     # サイドバーの設定
     st.sidebar.header('検索設定')
@@ -63,7 +61,7 @@ if uploaded_file is not None:
 
         # 感情分析の実行
         for index, row in filtered_data.iterrows():
-            url = 'http://127.0.0.1:8000/analyze_sentiment/'
+            url = 'https://sentiment-analyzer-xrp3.onrender.com/analyze_sentiment/'
             response = requests.post(url, json={'text': row[column_to_process]})
 
             if response.status_code == 200:
