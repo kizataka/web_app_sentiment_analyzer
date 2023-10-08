@@ -37,9 +37,18 @@ ECサイトでの婦人服の売上データとなっており、商品分類名
     * FastAPI 0.103.2
 * バックエンド言語
     * Python 3.9.13
-* データベース
-    * SQLAlchemy 2.0.21
 * 感情分析モデル
     * transformers(HuggingFaceのライブラリ) 4.33.3
 * 環境構築
     * Poetry 1.6.1
+
+# アプリの詳細について
+アプリの詳しい内容についてはQiitaで記事としてまとめました。  
+
+https://qiita.com/kizataka/items/061624fdcb59c6437b84
+
+https://qiita.com/kizataka/items/7e293b5814c5acdbb5f0
+
+https://qiita.com/kizataka/items/061624fdcb59c6437b84
+
+https://qiita.com/kizataka/items/e7273b2399f692be4440
